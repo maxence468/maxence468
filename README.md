@@ -37,7 +37,7 @@
 
 
 <p align="center">
-      <a href="https://github.com/npshetty25"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maxence468&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866%22%20height=%22192px%22%20width=%2249.5%"/></a>
+      <a href="https://github.com/maxence468"><img alt="maxence468's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maxence468&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866%22%20height=%22192px%22%20width=%2249.5%"/></a>
   <br/>
 </p>
 
@@ -48,5 +48,5 @@
 
 
 <p align="center">
-      <a href="https://github.com/npshetty25"><img src="https://raw.githubusercontent.com/maxence468/maxence468/output/snake.svg" alt="Snake animation" /></a>
+      <a href="https://github.com/maxence468"><img src="https://raw.githubusercontent.com/maxence468/maxence468/output/snake.svg" alt="Snake animation" /></a>
 </p>
